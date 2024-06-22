@@ -1,0 +1,16 @@
+{
+  "name": "graphql-utils",
+  "version": "1.0.0",
+  "description": "dependency for graphql",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ari Susanto",
+  "license": "ISC",
+  "dependencies": {
+    "@graphql-tools/load-files": "^7.0.0",
+    "@graphql-tools/merge": "^9.0.4"
+  }
+}
