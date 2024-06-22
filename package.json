@@ -1,5 +1,5 @@
 {
-  "name": "graphql-utils",
+  "name": "ck-gql-utils",
   "version": "1.0.0",
   "description": "dependency for graphql",
   "main": "index.js",
